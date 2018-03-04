@@ -1,4 +1,4 @@
-package com.dreamsmadevisible.kattis.simple.quadrantselection;
+package com.dreamsmadevisible.kattis.quadrantselection;
 
 import java.util.Scanner;
 
